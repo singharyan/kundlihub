@@ -6,13 +6,13 @@
                 <p class="text-gray-800 dark:text-gray-50 text-xl font-medium mb-4">
                     Basic
                 </p>
-                <p class="text-gray-900 dark:text-white text-3xl font-bold">
+                <p class="text-gray-900 dark:text-gray-50 text-3xl font-bold">
                     ₹2300
                     <span class="text-gray-400 text-sm">
                        +240 / month
                     </span>
                 </p>
-                <p class="text-gray-600 dark:text-gray-100  text-xs mt-4">
+                <p class="text-gray-600 dark:text-gray-50  text-xs mt-4">
                     For most businesses that want to optimize web queries.
                 </p>
                 <p class="flex items-center pt-2  font-medium">
@@ -23,7 +23,7 @@
                     Google Listing
                 </p>
                 <div></div>
-                <ul class="ml-6 text-sm text-gray-600 list-disc list-inside mt-1 mb-10">
+                <ul class="ml-6 text-sm text-gray-600 dark:text-gray-50 list-disc list-inside mt-1 mb-10">
                     <li>Location Listing</li>
                     <li>Product Showcase (basic)</li>
                     <li>5-7 Photos in listing format</li>
@@ -42,7 +42,7 @@
                       +540 / month
                     </span>
                 </p>
-                <p class="text-gray-600 dark:text-gray-100  text-xs mt-4">
+                <p class="text-gray-600 dark:text-gray-50  text-xs mt-4">
                     For most businesses that want to optimize web queries.
                 </p>
                 <p class="flex items-center pt-2 font-medium">
